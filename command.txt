@@ -1,0 +1,7 @@
+Commands for solver execution
+
+1D object transportation (Flixeder controller):
+./ff -p ../mrod_iros/ -o domain_iros.txt -f prob_flixeder.txt -s 5
+
+2D object shape control (Aranda controller):
+./ff -p ../mrod_iros/ -o domain_iros.txt -f prob_aranda.txt -s 5
